@@ -1,0 +1,15 @@
+    <Station>
+      <StationWorkerID>8DA1DE43-2DC1-4287-8CA2-00005A6E19C4</StationWorkerID>
+      <REGION>86</REGION>
+      <StationCode>842</StationCode>
+      <StationID>C03B320B-6869-45CA-B4E7-475F1BB40771</StationID>
+      <ExamGlobalID>19</ExamGlobalID>
+      <ExamDate>2014.06.09</ExamDate>
+      <SubjectCode>5</SubjectCode>
+      <SubjectName>Русский язык</SubjectName>
+      <AuditoriumCode>1234</AuditoriumCode>
+      <AuditoriumName>1234</AuditoriumName>
+      <IsPreparation>0</IsPreparation>
+      <PlacesCount>10</PlacesCount>
+      <ParticipantCount>16</ParticipantCount>
+    </Station>
